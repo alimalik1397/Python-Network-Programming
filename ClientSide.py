@@ -1,3 +1,5 @@
+
+#Writing a File Finder Server (FFS) and its corresponding File Finder client (FFC) in Python.
 #Client Side Code:
 
 
